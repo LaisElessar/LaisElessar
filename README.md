@@ -61,16 +61,5 @@
 
 ###
 
-<h3 align="left">Histórico</h3>
-
-###
-
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-###
-
 
 ###
